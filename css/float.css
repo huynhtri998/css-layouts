@@ -1,0 +1,21 @@
+.container {
+  width: 1205px;
+  margin: 0 auto; /* Canh giữa trang */
+  border: red solid 1px;
+}
+
+article {
+  width: 900px;
+  float: left; /* Đặt sang bên trái */
+  border: blue solid 1px;
+}
+
+aside {
+  width: 300px;
+  float: right; /* Đặt sang bên phải */
+  border: green solid 1px;
+}
+
+footer {
+  clear: both;
+}
